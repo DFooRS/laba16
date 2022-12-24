@@ -1,5 +1,6 @@
 import math
 
+
 def fun1(a):
     def fun2(b):
         f = a * math.pow(b, a)
