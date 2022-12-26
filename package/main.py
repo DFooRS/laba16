@@ -4,6 +4,7 @@ from package import select
 from package import help
 from package import error
 
+
 def main():
     """
     Главная функция программы.
